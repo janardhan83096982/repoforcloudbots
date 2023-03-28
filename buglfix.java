@@ -1,1 +1,3 @@
- thisis the solution for bug one
+this is the solution for bugl 
+
+suggested by manager
